@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="naggar-test-01"
